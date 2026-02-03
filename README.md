@@ -1,2 +1,2 @@
-# 100-days-100-projects-
-100 days 100 projects 
+# 10-days-10-projects-
+10 days 10 projects 
